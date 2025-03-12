@@ -1,6 +1,6 @@
 ## Task #1 - Javascript
 
-![task](https://raw.githubusercontent.com/ZaField/WCD03_Assigment1/blob/main/assets/ImageTugas1.png)
+![task](https://https://raw.githubusercontent.com/ZaField/WCD03_Assigment1/refs/heads/main/assets/ImageTugas1.png)
 
 This folder contains a collection of Javascript implementation from the Task
 
