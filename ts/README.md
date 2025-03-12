@@ -1,6 +1,6 @@
 ## Task #1 - Typescript
 
-![task](https://raw.githubusercontent.com/ZaField/WDC03-Assignment1/main/assets/ImageTugas1.png)
+![task](https://raw.githubusercontent.com/ZaField/WDC03_Assignment1/main/assets/ImageTugas1.png)
 
 This folder contains a collection of Typescript implementation from the Task
 
